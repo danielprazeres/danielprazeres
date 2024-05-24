@@ -13,11 +13,8 @@ Sou um desenvolvedor Python com forte interesse em inteligência artificial, mac
 
 ## Projetos em destaque
 
-- [**Previsão de Doenças Cardíacas**](https://github.com/danielprazeres/projeto-doencas-cardiacas)  
+- [**Previsão de Doenças Cardíacas**](https://github.com/danielprazeres/HeartDiseasePredictor)
   Um projeto de machine learning para prever doenças cardíacas utilizando diversos algoritmos e técnicas de análise de dados.
-
-- [**Análise de Sentimentos em Avaliações de Produtos**](https://github.com/danielprazeres/analise-sentimentos)  
-  Projeto de NLP para analisar sentimentos em avaliações de produtos e gerar insights valiosos para melhorias.
 
 ## Experiência Profissional
 
