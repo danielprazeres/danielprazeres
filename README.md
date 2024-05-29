@@ -1,51 +1,30 @@
-# Olá, sou Daniel Prazeres 👋
+# Hello, I'm Daniel Prazeres 👋
 
-## Sobre mim
+## About Me
 
-Sou um desenvolvedor Python com forte interesse em inteligência artificial, machine learning, data science e análise de dados. Tenho experiência significativa em design de produtos e interfaces, onde apliquei minhas habilidades analíticas e técnicas para criar soluções centradas no usuário.
+I'm a Python developer with a strong interest in artificial intelligence, machine learning, data science, and data analysis. I have significant experience in product and interface design, where I've applied my analytical and technical skills to create user-centered solutions.
 
-## Habilidades
+## Skills
 
-- **Linguagens:** Python, Flutter
-- **Ferramentas:** Illustrator, Photoshop, Hotjar, Figma, Azure, Maze, JIRA
-- **Aplicações:** Excel Avançado, Word, PowerPoint, Illustrator
-- **Idiomas:** Português (nativo), Inglês (C1), Espanhol (B1)
+- **Languages:** Python, Flutter
+- **Tools:** Illustrator, Photoshop, Hotjar, Figma, Azure, Maze, JIRA, Microsoft Clarity
+- **Applications:** Advanced Excel, Word, PowerPoint, Illustrator
+- **Languages:** Portuguese (native), English (C1), Spanish (B1)
 
-## Projetos em destaque
+## Featured Projects
 
-- [**Previsão de Doenças Cardíacas**](https://github.com/danielprazeres/HeartDiseasePredictor)
-  Um projeto de machine learning para prever doenças cardíacas utilizando diversos algoritmos e técnicas de análise de dados.
+- [**Heart Disease Prediction**](https://github.com/danielprazeres/HeartDiseasePredictor)
+  A machine learning project to predict heart diseases using various algorithms and data analysis techniques.
 
-## Experiência Profissional
-
-- **Nätverk (Set/2023 - presente):**  
-  UX Specialist, liderando estratégias de experiência do usuário, pesquisa, design e avaliação de produtos.
-
-- **Regera (Jan/2022 - Set/2023):**  
-  Product Designer Senior, contribuindo para o crescimento da empresa e melhorando a conversão e eficiência do onboarding de usuários.
-
-- **Zallpy (Out/2022 - Mar/2023):**  
-  Product Designer, responsável pelo desenvolvimento de features e consultoria para clientes.
-
-- **2tech (Nov/2019 - Jan/2022):**  
-  UX Designer, focado em design de interação e análise de usuários.
-
-## Formação Acadêmica
-
-- **Graduação em Sistemas de Informação** - UNILASALLE, Rio de Janeiro, Brasil (2019 - 2023)
-- **Cursos de Product Discovery e Product Management** - PM3 (2022 - 2023)
-- **Curso de UX Design** - TERA (2020)
-- **Formação em UX Design 80h** - ALURA (2020)
-
-## Conecte-se comigo
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/danielmprazeres)
 - [Kaggle](https://www.kaggle.com/danielprazeres)
-- [Site Pessoal](https://danielprazeres.com)
+- [Personal Website](https://danielprazeres.com)
 
-## Objetivos
+## Goals
 
-Meu objetivo é contribuir para o desenvolvimento de soluções inovadoras que utilizem inteligência artificial e machine learning, impactando positivamente a sociedade e avançando no campo da tecnologia.
+My goal is to contribute to the development of innovative solutions that utilize artificial intelligence and machine learning, positively impacting society and advancing the field of technology.
 
 ---
 
