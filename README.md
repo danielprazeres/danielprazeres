@@ -1,61 +1,60 @@
-<!-- Perfil GitHub – README.md -->
-<h1 align="center">Olá 👋 eu sou o Daniel Prazeres</h1>
-
+<!-- GitHub Profile README – danielprazeres -->
+<h1 align="center">Hi, I'm Daniel Prazeres 👋</h1>
 <p align="center">
-  <em>AI Engineer (Python) focado em LLM Agents, RAG, OCR & Automação • Entusiasta de Health-AI</em>
+  <em>AI Engineer · Python · LLM Agents · RAG · OCR Automation</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielmprazeres"><img src="https://img.shields.io/badge/LinkedIn-danielmprazeres-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:contato@danielprazeres.com"><img src="https://img.shields.io/badge/e-mail-contato@danielprazeres.com-darkred" alt="e-mail"></a>
-  <img src="https://img.shields.io/badge/visitors-000000?style=flat&color=blue" alt="visitors">
+  <a href="https://www.linkedin.com/in/danielmprazeres">
+    <img src="https://img.shields.io/badge/LinkedIn-danielmprazeres-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:contato@danielprazeres.com">
+    <img src="https://img.shields.io/badge/e--mail-contato%40danielprazeres.com-darkred" alt="e-mail">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=danielprazeres&color=blue" alt="profile views">
 </p>
 
 ---
 
-## ⚡ Sobre mim
-- 🎓 Bacharel em Sistemas de Informação, ex-UX Designer que migrou 100 % para **Engenharia de IA**.  
-- 🛠️ Hoje construo **chatbots, pipelines RAG e automações** com Python, FastAPI, LangChain, OpenAI, Ollama & Docker.  
-- 🚀 Apaixonado por **bioinformática** e **neuroinformática**; avaliando mestrado na área.  
-- 🌱 Atualmente aprendendo **MLOps avançado** e contribuindo em projetos open-source de RAG.  
-- 🗺 Base em Buenos Aires — trabalhando remoto para LATAM, EUA e UE.
+## ⚡ About me
+- 🎓 Information-Systems graduate who pivoted from UX to **AI Engineering**, turning great interfaces into intelligent, scalable products.  
+- 🛠 Builds chatbots, RAG pipelines and automations with Python, FastAPI, LangChain, OpenAI/Claude/Gemini, **Ollama** & Docker.  
+- 🔬 Exploring master’s programs in **AI for bioinformatics and neuroinformatics**.  
+- 🌱 Currently levelling-up **MLOps** and contributing to open-source RAG projects.  
+- 🌎 Based in Buenos Aires—working remotely across LATAM, US and EU.
 
 ---
 
-## 🧰  Tech Stack / Ferramentas
+## 🧰 Tech Stack
 
-| LLM / NLP | Backend | DevOps | Data & Viz | Outros |
-|-----------|---------|--------|-----------|--------|
-| ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai) ![Claude](https://img.shields.io/badge/Claude-353535) ![Gemini](https://img.shields.io/badge/Gemini-4285F4) ![Ollama](https://img.shields.io/badge/Ollama-3DDC84) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana) | ![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=data:image/png;base64,iVBORw0KGgo=) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit) |
+| Core AI / LLM | Backend | MLOps / DevOps | Data | Others |
+|---------------|---------|----------------|------|--------|
+| OpenAI · Claude · Gemini · Ollama | Python · FastAPI · **Django** | Docker · GitHub Actions | MongoDB · PostgreSQL · **SQL Server** | LangChain · Streamlit · Selenium · Pandas |
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
-| Repo | Descrição rápida |
-|------|------------------|
-| [**llm_creating_pdf**](https://github.com/danielprazeres/llm_creating_pdf) | Gera PDFs de especificações via **Streamlit + Ollama** (LLM local) sem custos de API. |
-| [**invoice-extraction-rag**](https://github.com/danielprazeres/invoice-extraction-rag) | Pipeline RAG com **PaddleOCR + LangChain** para extrair dados de notas fiscais. |
-| [**predict-infra-demo**](https://github.com/danielprazeres/predict-infra-demo) | Previsão de incidentes de servidores (Zabbix → Prophet) com dados sintéticos. |
+| Repository | One-liner |
+|------------|-----------|
+| **[llm_creating_pdf](https://github.com/danielprazeres/llm_creating_pdf)** | Streamlit + Ollama app that generates product-spec PDFs on demand **with zero API cost** |
+| **[invoice-extraction-rag](https://github.com/danielprazeres/invoice-extraction-rag)** | PaddleOCR + LangChain RAG pipeline for reliable invoice-data extraction |
+| **[predict-infra-demo](https://github.com/danielprazeres/predict-infra-demo)** | Synthetic-data demo predicting server incidents (Zabbix → Prophet) |
 
-> Quer ver algo funcionando? Acesse a demo do LLM PDF ou me peça um deep-dive nos dashboards de atendimento!  
+> **Want a live demo?** Check the PDF generator on Streamlit Cloud or ping me for a deep-dive into the support-dashboards project.
 
 ---
 
 ## ✒️ Blog / Talks
-- **Como medir confiança na extração de documentos com RAG** – *(Medium)*  
-- **Do UX à Engenharia de IA em 18 meses** – lightning talk, PyData Buenos Aires.
-
-*(links serão adicionados em breve)*
+- *How to measure confidence in document extraction with RAG* — Medium (coming soon)  
+- *From UX to AI Engineering in 18 months* — Lightning talk @ PyData Buenos Aires
 
 ---
 
-## 🤝 Vamos conversar?
-Sinta-se à vontade para me chamar no LinkedIn, abrir Issues nos repositórios ou enviar e-mail direto.  
-Adoro trocar ideia sobre **LLMs, MLOps, Health-AI** e qualquer projeto que envolva **Python + automação de dados**.
+## 🤝 Let’s connect
+Feel free to reach out on LinkedIn, open an Issue, or email me directly.  
+I love chatting about **LLMs, MLOps, Health-AI** and any project mixing **Python + data automation**.
 
 ---
 
-<p align="center">
-  <em>“Transforming great interfaces into reliable intelligent products.”</em>
-</p>
+<p align="center"><em>From raw data to autonomous AI agents.</em></p>
