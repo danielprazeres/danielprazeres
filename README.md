@@ -38,16 +38,18 @@
 | Repository | One-liner |
 |------------|-----------|
 | **[llm_creating_pdf](https://github.com/danielprazeres/llm_creating_pdf)** | Streamlit + Ollama app that generates product-spec PDFs on demand **with zero API cost** |
+<!--
 | **[invoice-extraction-rag](https://github.com/danielprazeres/invoice-extraction-rag)** | PaddleOCR + LangChain RAG pipeline for reliable invoice-data extraction |
 | **[predict-infra-demo](https://github.com/danielprazeres/predict-infra-demo)** | Synthetic-data demo predicting server incidents (Zabbix → Prophet) |
 
 > **Want a live demo?** Check the PDF generator on Streamlit Cloud or ping me for a deep-dive into the support-dashboards project.
-
+-->
 ---
-
+<!--
 ## ✒️ Blog / Talks
 - *How to measure confidence in document extraction with RAG* — Medium (coming soon)  
 - *From UX to AI Engineering in 18 months* — Lightning talk @ PyData Buenos Aires
+-->
 
 ---
 
