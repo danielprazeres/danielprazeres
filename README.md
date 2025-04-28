@@ -1,7 +1,7 @@
 <!-- GitHub Profile README – danielprazeres -->
 <h1 align="center">Hi, I'm Daniel Prazeres 👋</h1>
 <p align="center">
-  <em>AI Engineer · Python · LLM Agents · RAG · OCR Automation</em>
+  AI Engineer · Python · LLM Agents · RAG · OCR Automation
 </p>
 
 <p align="center">
